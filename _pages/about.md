@@ -13,6 +13,11 @@ redirect_from:
 
 * I am now actively **seeking for a Ph.D. position (2027 Fall)** to further advance my academic and research career.
 
+Publications
+======
+* **Zhonghao Wang**, Danyu Sun, Sheng Zhou, Haobo Wang, Jiapei Fan, Longtao Huang, Jiajun Bu. "NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise." Advances Neural Information Processing Systems 37 (NeurIPS 2024): 38142--38170. [[Paper]](https://papers.nips.cc/paper_files/paper/2024/hash/436ffa18e7e17be336fd884f8ebb5748-Abstract-Datasets_and_Benchmarks_Track.html) [[Code]](https://github.com/eaglelab-zju/NoisyGL) [[Slide]](https://neurips.cc/media/neurips-2024/Slides/97611.pdf)
+* **Zhonghao Wang**, Ru Yuan, Jiaye Fu, Ka-Chun Wong, Chengbin Peng. Wang Z, Yuan R, Fu J, et al. Core-periphery detection based on masked Bayesian nonnegative matrix factorization[J]. IEEE Transactions on Computational Social Systems (TCSS), 2024, 11(3): 4102-4113. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10399942) [[Code]](https://github.com/HazwRuHi/Masked_Bayesian_NMF)
+
 Education
 ======
 * M.E. in Software Engineering. Zhejiang University, Hangzhou, China (Sep 2024 - Present)
@@ -28,8 +33,3 @@ Experience
 * Research Intern in Alibaba Group, Hangzhou, China (Jul 2024 - Present)
   * Collaborate with Alibaba Security.
   * Working on the research and development of Robust Graph Learning Algorithms. 
-
-Publications
-======
-* **Zhonghao Wang**, Danyu Sun, Sheng Zhou, Haobo Wang, Jiapei Fan, Longtao Huang, Jiajun Bu. "NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise." Advances Neural Information Processing Systems 37 (NeurIPS 2024): 38142--38170. [[Paper]](https://papers.nips.cc/paper_files/paper/2024/hash/436ffa18e7e17be336fd884f8ebb5748-Abstract-Datasets_and_Benchmarks_Track.html) [[Code]](https://github.com/eaglelab-zju/NoisyGL) [[Slide]](https://neurips.cc/media/neurips-2024/Slides/97611.pdf)
-* **Zhonghao Wang**, Ru Yuan, Jiaye Fu, Ka-Chun Wong, Chengbin Peng. Wang Z, Yuan R, Fu J, et al. Core-periphery detection based on masked Bayesian nonnegative matrix factorization[J]. IEEE Transactions on Computational Social Systems (TCSS), 2024, 11(3): 4102-4113. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10399942) [[Code]](https://github.com/HazwRuHi/Masked_Bayesian_NMF)
