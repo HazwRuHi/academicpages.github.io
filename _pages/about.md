@@ -21,7 +21,7 @@ Education
 * B.E. in Computer Science. Ningbo University, Ningbo, China (Sep 2020 - Jun 2024)
   * Advisor: [Chengbin Peng](https://chengbinpeng.link/)
   * Research Interests: Data Mining, Complex Networks
-  * GPA: 3.70/4.0
+  * GPA: 3.7 / 4.0
 
 Experience
 ======
