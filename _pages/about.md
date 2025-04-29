@@ -7,18 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year master’s student in Software Engineering at Zhejiang University, under the supervision of Dr. [Sheng Zhou](https://zhoushengisnoob.github.io/). 
+I am currently a first-year (2024 Fall) master’s student in Software Engineering at Zhejiang University, under the supervision of Dr. [Sheng Zhou](https://zhoushengisnoob.github.io/). 
 
 My research interests include Data Mining, Weakly Supervised Learning, and Graph Neural Networks. 
 
 I am now actively **seeking for a Ph.D. position (2027 Fall)** to further advance my academic and research career.
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+1. **Zhonghao Wang**, Danyu Sun, Sheng Zhou, Haobo Wang, Jiapei Fan, Longtao Huang, Jiajun Bu. "NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise." Advances Neural Information Processing Systems 37 (NeurIPS 2024) [[Paper]](https://papers.nips.cc/paper_files/paper/2024/hash/436ffa18e7e17be336fd884f8ebb5748-Abstract-Datasets_and_Benchmarks_Track.html) [[Code]](https://github.com/eaglelab-zju/NoisyGL) [[Slide]](https://neurips.cc/media/neurips-2024/Slides/97611.pdf).
+2. **Zhonghao Wang**, Ru Yuan, Jiaye Fu, Ka-Chun Wong, Chengbin Peng. Wang Z, Yuan R, Fu J, et al. Core-periphery detection based on masked Bayesian nonnegative matrix factorization[J]. IEEE Transactions on Computational Social Systems (TCSS), 2024, 11(3): 4102-4113 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10399942) [[Code]](https://github.com/HazwRuHi/Masked_Bayesian_NMF).
