@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-======
 I am currently a first-year master’s student in Software Engineering at Zhejiang University, under the supervision of Dr. [Sheng Zhou](https://zhoushengisnoob.github.io/). 
 
 My research interests include Data Mining, Weakly Supervised Learning, and Graph Neural Networks. 
