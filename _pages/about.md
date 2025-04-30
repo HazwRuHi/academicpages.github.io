@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a first-year (2024 Fall) master’s student in Software Engineering at Zhejiang University, under the supervision of Dr. [Sheng Zhou](https://zhoushengisnoob.github.io/). 
+* I am currently a master’s student in Software Engineering at **Zhejiang University**, under the supervision of Dr. [Sheng Zhou](https://zhoushengisnoob.github.io/). 
 
 * My research interests include Data Mining, Weakly Supervised Learning, and Graph Neural Networks. 
 
@@ -30,6 +30,7 @@ Education
 
 Experience
 ======
-* Research Intern in Alibaba Group, Hangzhou, China (Jul 2024 - Present)
+* Research Intern in **Alibaba Group**, Hangzhou, China (Jul 2024 - Present)
   * Collaborate with Alibaba Security.
   * Working on the research and development of Robust Graph Learning Algorithms. 
+* Serve as a Reviewer in NeurIPS 2025.
