@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV-Zhonghao Wang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,7 +29,7 @@ Experience
 * **Research Intern**
   * **Alibaba Group**, Hangzhou, China (Jul 2024 - Present)
     * Collaborating with Alibaba Security on the research and development of Robust Graph Learning Algorithms. 
-* **Reviewer** 
+* **Serve as Reviewer** 
   * NeurIPS 2025.
 
 
