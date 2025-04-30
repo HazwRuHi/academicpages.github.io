@@ -3,11 +3,11 @@ title: "Core-periphery detection based on masked Bayesian nonnegative matrix fac
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-15-Core-Periphery
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about Detecting Core-Periphery Structure in Complex Networks.'
 date: 2024-01-15
-venue: 'Journal 1'
+venue: 'IEEE Transactions on Computational Social Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10399942'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:jwRcptiIrkUJ:scholar.google.com/&output=citation&scisdr=ClHXwlcMEJu30NHfgZw:AFWwaeYAAAAAaBHZmZyea--qJzqJEDgvkYMRg5s&scisig=AFWwaeYAAAAAaBHZmTal1H8HiVQcFoBkLJ-Nncw&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1'
-citation: 'Z. Wang, R. Yuan, J. Fu, K. -C. Wong and C. Peng, "Core–Periphery Detection Based on Masked Bayesian Nonnegative Matrix Factorization," in IEEE Transactions on Computational Social Systems, vol. 11, no. 3, pp. 4102-4113, June 2024, doi: 10.1109/TCSS.2023.3347406. keywords: {Bayes methods;Matrix decomposition;Symmetric matrices;Measurement;Complex networks;Brain modeling;Biological system modeling;Complex networks;core–periphery detection;nonnegative matrix factorization (NMF)},'
+citation: 'Z. Wang, R. Yuan, J. Fu, K. -C. Wong and C. Peng, "Core–Periphery Detection Based on Masked Bayesian Nonnegative Matrix Factorization," in IEEE Transactions on Computational Social Systems, vol. 11, no. 3, pp. 4102-4113, June 2024, doi: 10.1109/TCSS.2023.3347406.'
 ---
 Core–periphery structure is an essential mesoscale feature in complex networks. Previous researches mostly focus on discriminative approaches, while in this work we propose a generative model called masked Bayesian nonnegative matrix factorization. We build the model using two pair affiliation matrices to indicate core–periphery pair associations and using a mask matrix to highlight connections to core nodes. We propose an approach to infer the model parameters and prove the convergence of variables with our approach. Besides the abilities as traditional approaches, it is able to identify core scores with overlapping core–periphery pairs. We verify the effectiveness of our method using randomly generated networks and real-world networks. Experimental results demonstrate that the proposed method outperforms traditional approaches.
