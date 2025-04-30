@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.E. in Software Engineering, Zhejiang University, Hangzhou, China (Sep 2024 - Present)
+  * Advisor: [Sheng Zhou](https://zhoushengisnoob.github.io/)
+  * Research Interests: Data Mining, Weakly Supervised Learning, Graph Neural Networks
+* B.E. in Computer Science. Ningbo University, Ningbo, China (Sep 2020 - Jun 2024)
+  * Advisor: [Chengbin Peng](https://chengbinpeng.link/)
+  * Research Interests: Data Mining, Complex Networks
+  * GPA: 3.7 / 4.0
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Zhonghao Wang**, Danyu Sun, Sheng Zhou, Haobo Wang, Jiapei Fan, Longtao Huang, Jiajun Bu. "NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise." Advances Neural Information Processing Systems 37 (NeurIPS 2024): 38142--38170. [[Paper]](https://papers.nips.cc/paper_files/paper/2024/hash/436ffa18e7e17be336fd884f8ebb5748-Abstract-Datasets_and_Benchmarks_Track.html) [[Code]](https://github.com/eaglelab-zju/NoisyGL) [[Slide]](https://neurips.cc/media/neurips-2024/Slides/97611.pdf)
+* **Zhonghao Wang**, Ru Yuan, Jiaye Fu, Ka-Chun Wong, Chengbin Peng. Wang Z, Yuan R, Fu J, et al. Core-periphery detection based on masked Bayesian nonnegative matrix factorization[J]. IEEE Transactions on Computational Social Systems (TCSS), 2024, 11(3): 4102-4113. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10399942) [[Code]](https://github.com/HazwRuHi/Masked_Bayesian_NMF)
+
+Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Research Intern**
+  * **Alibaba Group**, Hangzhou, China (Jul 2024 - Present)
+    * Collaborating with Alibaba Security on the research and development of Robust Graph Learning Algorithms. 
+* **Reviewer** 
+  * NeurIPS 2025.
+
+
+
